@@ -18,6 +18,7 @@ author:
   github:         kyfast
   twitter:        kyfast
   email:          ky@kyfast.net
+gems: [jekyll-paginate]
 
 paginate:         5
 related_posts_max: 3
